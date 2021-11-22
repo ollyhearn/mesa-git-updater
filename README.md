@@ -17,4 +17,4 @@ Q: My system laggs, idk is it died or not!<br />
 A: Process of compiling mesa-git is not so fast, so don't care about it, just leave script working for about 5-10 minutes.<br />
 <br />
 Q: How much disk space does this require?<br />
-A: There are plenty of source code to compile from, so be sure to have at least 2gb of disk space to let mesa-git compile.
+A: There are plenty of source code to compile from, so be sure to have at least 2gb of disk space to let mesa-git compile. And if you done with mesa-git, you can delete mesa-git folder in your home directory.
